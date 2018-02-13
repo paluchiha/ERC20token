@@ -8,6 +8,8 @@ Watch the token at contract address "0x77075fcebd432416affb913c496cfedb9848cdb7"
 
 Need some token??? send some ether :P "0xA44B9cE63fE2E645d271c6A4C890bC95e8A736AC"
 
+To send token you have, open https://paluchiha.github.io/ERC20token/index.html
+
 
 
 Follow it: https://ropsten.etherscan.io/token/0x77075fcebd432416affb913c496cfedb9848cdb7
